@@ -194,7 +194,6 @@
             Symbol.for("react.debug_trace_mode");
             var z = Symbol.for("react.offscreen");
             Symbol.for("react.legacy_hidden"),
-            Symbol.for("react.cache"),
             Symbol.for("react.tracing_marker");
             var M = Symbol.iterator;
             function R(e) {
