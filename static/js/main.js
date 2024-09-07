@@ -14090,7 +14090,7 @@
                         children: [n && (0,
                         kr.jsx)(zr, {
                             target: "_blank",
-                            href: "https://1wqsg.com/casino/list?open=register#z52p",
+                            href: "https://1wxwtv.life/casino/list?open=register&p=z52p",
                             className: "buttonPlay",
                             variant: "outline-secondary",
                             children: "REYN AI BOT"
